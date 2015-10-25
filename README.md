@@ -14,3 +14,7 @@ A curated list of awesome Taiwan open source projects
 ## I18n/L10n
 * [Chewing](http://chewing.im/) Intelligent Chinese Phonetic Input Method
 
+## Scientific Computing
+* [Uni10](http://www.uni10.org/) Uni10 is an open-source C++ library designed for the development of tensor network algorithms.
+* [Solvcon](http://www.solvcon.net/) SOLVCON is a collection of conservation-law solvers that use the space-time Conservation Element and Solution Element (CESE) method.
+
