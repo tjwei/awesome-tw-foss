@@ -1,4 +1,4 @@
-# awesome-taiwan
+# awesome-Taiwan
 A curated list of awesome Taiwan open source projects
 
 
