@@ -13,7 +13,7 @@ A curated list of awesome Taiwan Free/Open Source Software projects
 * [npk](https://github.com/cfsghost/npk) - Node.js packaging utility
 * [django-bootstrap-form](https://github.com/tzangms/django-bootstrap-form) - Twitter Bootstrap for Django Form
 * [react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
-* [zk](http://www.zkoss.org/) ZK is a highly productive Java framework for building amazing enterprise web and mobile applications 
+* [zk](http://www.zkoss.org/) - ZK is a highly productive Java framework for building amazing enterprise web and mobile applications 
 
 ## Web Application
 * [Emoji finder](https://github.com/muan/emoji) - Find the emoji that echoes your heart using keywords
