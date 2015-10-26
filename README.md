@@ -36,7 +36,7 @@ A curated list of awesome Taiwan Free/Open Source Software projects
 * [html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax
 * [求職小幫手](https://github.com/ronnywang/jobhelper) - 求職小幫手 Google Chrome Extension
 * [新聞小幫手](https://github.com/g0v/newshelper-extension) - 協助您判別含有誤導資訊的新聞
-
+* [Twitthat](https://github.com/tzangms/twitthat-chrome-extesion) - 快速分享文章到 Twitter 上的 Google Chrome Extension
 
 
 ## I18n/L10n
