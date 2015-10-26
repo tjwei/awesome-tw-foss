@@ -13,6 +13,7 @@ A curated list of awesome Taiwan open source projects
 
 ## I18n/L10n
 * [Chewing](http://chewing.im/) Intelligent Chinese Phonetic Input Method
+* [PIME](https://github.com/EasyIME/PIME)Implement input methods easily for Windows via Text Services Framework
 
 ## Scientific Computing
 * [Uni10](http://www.uni10.org/) Uni10 is an open-source C++ library designed for the development of tensor network algorithms.
