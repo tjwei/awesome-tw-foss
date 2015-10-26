@@ -31,7 +31,7 @@ A curated list of awesome Taiwan Free/Open Source Software projects
 * [PTT BBS](https://github.com/ptt/pttbbs) - PTT BBS source code 
 * [grs](https://github.com/toomore/grs) - 台灣上市上櫃股票價格擷取（Fetch Taiwan Stock Exchange data）含即時盤、台灣時間轉換、開休市判斷。
 * [藏頭詩產生器](https://github.com/ckmarkoh/AcrosticPoem) -  以Ngram為語言模型，先從兩萬首全唐詩中算出Ngram的統計數值，再用Viterbi演算法拼湊出藏頭詩中的每個字， 得出的藏頭詩，看起來很像詩詞但語意未必通順。
-* [ntm](https://github.com/fumin/ntm) - An implementation of Neural Turing Machines in Python
+* [ntm](https://github.com/fumin/ntm) - An implementation of Neural Turing Machines in Go
 
 
 ## Plugin/Addon
