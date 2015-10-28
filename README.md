@@ -15,6 +15,7 @@ A curated list of awesome Taiwan Free/Open Source Software projects
 * [react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
 * [zk](http://www.zkoss.org/) - ZK is a highly productive Java framework for building amazing enterprise web and mobile applications 
 * [doT](https://github.com/lucemia/doT) - javascript template engine for python
+* [zhpy](https://github.com/gasolin/zhpy) - 周蟒, 用中文化 python 語法寫程式
 
 ## Web Application
 * [Emoji finder](https://github.com/muan/emoji) - Find the emoji that echoes your heart using keywords
