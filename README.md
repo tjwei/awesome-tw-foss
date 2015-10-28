@@ -1,5 +1,5 @@
 # awesome-Taiwan
-A curated list of awesome Taiwan Free/Open Source Software projects
+A curated list of awesome Free/Open Source Software projects started in Taiwan or by Taiwanese people
 
 ## Lib/Framework/API/Dev Tool
 * [MoSQL](https://github.com/moskytw/mosql) - Build SQL with native Python data structure smoothly
