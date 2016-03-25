@@ -23,6 +23,7 @@ A curated list of awesome Free/Open Source Software projects started in Taiwan o
 * [Xnes](https://github.com/tjwei/xnes) - First Javascript SNES Emulator in the world.
 * [萌典](https://github.com/audreyt/moedict-webkit) - 這是 http://moedict.tw/ 線上及離線查詢 App 的源碼庫。
 * [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework / static site generator.
+* [Open WebMail](http://openwebmail.org/) - A webmail system designed to manage very large mail folder files in a memory efficient way.
 
 ## Desktop Application
 * [LXDE](http://lxde.org/lxde/) - LXDE is a GPL licensed open source desktop environment for Unix and other POSIX compliant platforms, such as Linux. The name LXDE stands for "Lightweight X11 Desktop Environment".
