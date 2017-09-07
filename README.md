@@ -55,11 +55,16 @@ A curated list of awesome Free/Open Source Software projects started in Taiwan o
 * [Uni10](http://www.uni10.org/) - Uni10 is an open-source C++ library designed for the development of tensor network algorithms.
 * [Solvcon](http://www.solvcon.net/) - SOLVCON is a collection of conservation-law solvers that use the space-time Conservation Element and Solution Element (CESE) method.
 
+## Machine Learning
+* [libffm](https://www.csie.ntu.edu.tw/~cjlin/libffm/) - A Library for Field-aware Factorization Machines.
+* [proNet-core](https://github.com/chihming/proNet-core) - pair-wise representations optimization Network.
+
 ## Misc
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries and software.
 * [Awesome Rrails Gem](https://github.com/hothero/awesome-rails-gem) - A collection of awesome Ruby Gems for Rails development.
 * [Awesome WatchOS](https://github.com/yenchenlin1994/awesome-watchos) - A curated list of awesome watchOS frameworks, libraries, sample apps.
 * [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay.
+* [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
 * [Mini Arm Os](https://github.com/jserv/mini-arm-os) - Build a minimal multi-tasking OS kernel for ARM from scratch.
 * [Fast Ruby](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby —— Collect Common Ruby idioms.
 * [G0v](https://github.com/g0v) - g0v source code.
