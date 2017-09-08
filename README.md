@@ -17,6 +17,7 @@ A curated list of awesome Free/Open Source Software projects started in Taiwan o
 * [DoT](https://github.com/lucemia/doT) - javascript template engine for python.
 * [Zhpy](https://github.com/gasolin/zhpy) - 周蟒, 用中文化 python 語法寫程式。
 * [Koa GraphQL](https://github.com/chentsulin/koa-graphql) - Create a GraphQL HTTP server with Koa.
+* [Messaging APIs](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform Edit.
 
 ## Web Application
 * [Emoji Finder](https://github.com/muan/emoji) - Find the emoji that echoes your heart using keywords.
