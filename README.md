@@ -68,7 +68,7 @@ A curated list of awesome Free/Open Source Software projects started in Taiwan o
 * [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
 * [Mini Arm Os](https://github.com/jserv/mini-arm-os) - Build a minimal multi-tasking OS kernel for ARM from scratch.
 * [Fast Ruby](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby —— Collect Common Ruby idioms.
-* [G0v](https://github.com/g0v) - g0v source code.
+* [Awesome g0v](https://github.com/g0v/awesome-g0v) - A curated list of g0v projects.
 * [Electron React Boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
 
 ## The Tears of Time
