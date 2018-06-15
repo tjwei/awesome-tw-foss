@@ -62,7 +62,7 @@ A curated list of awesome Free/Open Source Software projects started in Taiwan o
 
 ## Misc
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries and software.
-* [Awesome Rrails Gem](https://github.com/hothero/awesome-rails-gem) - A collection of awesome Ruby Gems for Rails development.
+* [Awesome Rails Gem](https://github.com/hothero/awesome-rails-gem) - A collection of awesome Ruby Gems for Rails development.
 * [Awesome WatchOS](https://github.com/yenchenlin1994/awesome-watchos) - A curated list of awesome watchOS frameworks, libraries, sample apps.
 * [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay.
 * [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
